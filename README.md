@@ -17,3 +17,4 @@ http://epitheus.com/county_api/v1/
     "countyName":"HENRY"
 }
 </pre>
+<h3>The full county code, if you'd like to address the county in the SVG, is the stateCode + countyCode</h3>
