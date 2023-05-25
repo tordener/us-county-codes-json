@@ -6,6 +6,7 @@ http://epitheus.com/county_api/v1/
 ![us_counties](https://github.com/tordener/us-county-codes-json/assets/5913474/42996e21-076f-48f8-9072-4654ab69595f)
 
 <h2>Object format:</h2>
+<pre>
 ```json
 {
     "state":"ALABAMA",
@@ -16,3 +17,4 @@ http://epitheus.com/county_api/v1/
     "countyName":"HENRY"
 }
 ```
+</pre>
