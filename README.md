@@ -1,5 +1,6 @@
 # us-county-codes-json
-Made this for the Wikicommons US Map with all the counties.
+Made this for the Wikicommons US Map with all the counties.<br />
+I couldn't find this data readily available, except in a pdf file, the pdf file used to generate the JSON is included<br />
 You can play around with the data with this API<br />
 http://epitheus.com/county_api/v1/
 
