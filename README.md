@@ -7,7 +7,6 @@ http://epitheus.com/county_api/v1/
 
 <h2>Object format:</h2>
 <pre>
-```json
 {
     "state":"ALABAMA",
     "stateCode":"01",
@@ -16,5 +15,4 @@ http://epitheus.com/county_api/v1/
     "countyCode":"067",
     "countyName":"HENRY"
 }
-```
 </pre>
